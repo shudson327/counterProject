@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/counterProject/static/css/main.f1d4a9e8.chunk.css",
+    "main.js": "/counterProject/static/js/main.e28a0c25.chunk.js",
+    "main.js.map": "/counterProject/static/js/main.e28a0c25.chunk.js.map",
+    "runtime-main.js": "/counterProject/static/js/runtime-main.07988444.js",
+    "runtime-main.js.map": "/counterProject/static/js/runtime-main.07988444.js.map",
+    "static/js/2.dc575d23.chunk.js": "/counterProject/static/js/2.dc575d23.chunk.js",
+    "static/js/2.dc575d23.chunk.js.map": "/counterProject/static/js/2.dc575d23.chunk.js.map",
+    "static/js/3.904e7b9c.chunk.js": "/counterProject/static/js/3.904e7b9c.chunk.js",
+    "static/js/3.904e7b9c.chunk.js.map": "/counterProject/static/js/3.904e7b9c.chunk.js.map",
+    "index.html": "/counterProject/index.html",
+    "static/css/main.f1d4a9e8.chunk.css.map": "/counterProject/static/css/main.f1d4a9e8.chunk.css.map",
+    "static/js/2.dc575d23.chunk.js.LICENSE.txt": "/counterProject/static/js/2.dc575d23.chunk.js.LICENSE.txt",
+    "static/media/voncount.3bda66e9.png": "/counterProject/static/media/voncount.3bda66e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07988444.js",
+    "static/js/2.dc575d23.chunk.js",
+    "static/css/main.f1d4a9e8.chunk.css",
+    "static/js/main.e28a0c25.chunk.js"
+  ]
+}
